@@ -5,4 +5,4 @@ This budget tracker will stay with you no matter where your connection goes! The
 ![Image of Budget Tracker Website](/Img/Money.png)
 
 # Deployed Application
-[Link to Deployed](pure-bayou-47216.herokuapp.com)
+[Link to Deployed](https://git.heroku.com/pure-bayou-47216.git)
